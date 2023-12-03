@@ -5,7 +5,10 @@ Currently pursuing my second Master's degree in Bioinformatics, I am deeply fasc
 
 Feel free to explore my repositories, ask questions, or collaborate on exciting projects. 
 
-<!-- Profile Views Counter -->
+<!-- Isil Views Counter -->
 ![](https://komarev.com/ghpvc/?username=missarabidopsis&color=blueviolet)
 
 ![Isil's GitHub stats](https://github-readme-stats.vercel.app/api?username=missarabidopsis&show_icons=true&theme=transparent)
+
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missarabidopsis)
