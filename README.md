@@ -4,3 +4,6 @@ I'm Isil, a bioinformatician candidate on a journey of continuous learning and e
 Currently pursuing my second Master's degree in Bioinformatics, I am deeply fascinated by the intersection of molecular genetics, data science, and machine learning.
 
 Feel free to explore my repositories, ask questions, or collaborate on exciting projects. 
+
+<!-- Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=missarabidopsis)
