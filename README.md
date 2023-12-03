@@ -10,5 +10,8 @@ Feel free to explore my repositories, ask questions, or collaborate on exciting 
 
 ![Isil's GitHub stats](https://github-readme-stats.vercel.app/api?username=missarabidopsis&show_icons=true&theme=transparent)
 
-<!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missarabidopsis)
+<!-- Most Used Languages with Transparent Background -->
+<div style="position: relative;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missarabidopsis" alt="Top Languages" style="position: absolute; z-index: 1;">
+  <img src="transparent-overlay.png" alt="Transparent Overlay" style="position: absolute; z-index: 2;">
+</div>
