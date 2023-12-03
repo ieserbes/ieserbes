@@ -6,4 +6,4 @@ Currently pursuing my second Master's degree in Bioinformatics, I am deeply fasc
 Feel free to explore my repositories, ask questions, or collaborate on exciting projects. 
 
 <!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=missarabidopsis)
+![](https://komarev.com/ghpvc/?username=missarabidopsis&color=blueviolet)
