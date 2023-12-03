@@ -7,3 +7,5 @@ Feel free to explore my repositories, ask questions, or collaborate on exciting 
 
 <!-- Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=missarabidopsis&color=blueviolet)
+
+![Isil's GitHub stats](https://github-readme-stats.vercel.app/api?username=missarabidopsis&show_icons=true&theme=transparent)
