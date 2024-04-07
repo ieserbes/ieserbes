@@ -6,9 +6,6 @@ Bioinformatics grad student
 
 Hi! I'm Isil Erbasol Serbes, a Bioinformatics graduate student at the University of Birmingham. I previously worked as a molecular geneticist at the University of Bremen, Germany with a PhD and have 15 years of wet-lab experience. I'm fascinated by machine learning applications, multi-omics data integration, and network biology. I'm open to collaborations!
 
-<a href="https://www.x.com/ieserbes" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/ieserbes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
 <!-- Isil Views Counter -->
 ![](https://komarev.com/ghpvc/?username=ieserbes&color=blueviolet)
 
