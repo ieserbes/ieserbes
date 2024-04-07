@@ -1,7 +1,10 @@
-### Hello world ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+### Hi 👋 My name is Isil Erbasol Serbes
+====================================
 
+Bioinformatics grad student
+---------------------------
 
-I'm Isil, a bioinformatician on a journey of continuous learning and exploration. After a long wet-lab experience in molecular genetics (15years), I switched my career to bioinformatics. Currently, pursuing my second Master's degree in Bioinformatics, I am deeply fascinated by the intersection of molecular genetics, data science, and machine learning. I love coding and am mostly a Python user. 
+Hi! I'm Isil Erbasol Serbes, a Bioinformatics graduate student at the University of Birmingham. I previously worked as a molecular geneticist at the University of Bremen, Germany with a PhD and have 15 years of wet-lab experience. I'm fascinated by machine learning applications, multi-omics data integration, and network biology. I'm open to collaborations!
 
 <a href="https://www.x.com/missarabidopsis" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/missarabidopsis?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
