@@ -21,6 +21,6 @@ Hi! I'm Isil Erbasol Serbes, a Bioinformatics graduate student at the University
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 <a href="https://www.nextflow.io/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nextflow_logo.png" height="36" alt="Nextflow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nextflow_%28new%29.png" height="36" alt="Nextflow" />
 </a>
 </p>
