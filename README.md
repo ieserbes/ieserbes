@@ -3,8 +3,7 @@
 
 Bioinformatician | Molecular Biologist
 ---------------------------
-
-Hi! I'm Isil, a Bioinformatics graduate student at the University of Birmingham. I previously worked as a molecular biologist at the University of Bremen, Germany with a PhD and have over 15 years of wet-lab experience. I'm fascinated by machine learning applications, multi-omics data integration, and network biology. I'm open to collaborations!
+Hi! I'm Isil, a  bioinformatician with an MSc in bioinformatics and a PhD in molecular genetics, focused on designing sustainable and reproducible computational workflows and applying them to downstream multiomics analyses using molecular biology, computational, and machine learning approaches.
 
 <!-- Isil Views Counter -->
 ![](https://komarev.com/ghpvc/?username=ieserbes&color=blueviolet)
