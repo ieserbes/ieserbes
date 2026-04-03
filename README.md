@@ -1,6 +1,7 @@
 ### Hi everyone 👋 
 ====================================
-Hi! I'm Isil, a postdoctoral researcher in bioinformatics at Heidelberg University Hospital, focusing on multi-omics data integration.
+
+I'm Isil, a postdoctoral researcher in bioinformatics at Heidelberg University Hospital, focusing on multi-omics data integration.
 
 <!-- Isil Views Counter -->
 ![](https://komarev.com/ghpvc/?username=ieserbes&color=blueviolet)
