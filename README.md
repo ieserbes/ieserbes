@@ -1,9 +1,6 @@
-### Hi 👋 
+### Hi everyone 👋 
 ====================================
-
-Bioinformatician | Molecular Biologist
----------------------------
-Hi! I'm Isil, a  bioinformatician with an MSc in bioinformatics and a PhD in molecular genetics, focused on designing sustainable and reproducible computational workflows and applying them to downstream multiomics analyses using molecular biology, computational, and machine learning approaches.
+Hi! I'm Isil, a postdoctoral researcher in bioinformatics at Heidelberg University Hospital, focusing on multi-omics data integration.
 
 <!-- Isil Views Counter -->
 ![](https://komarev.com/ghpvc/?username=ieserbes&color=blueviolet)
