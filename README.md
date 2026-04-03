@@ -1,5 +1,4 @@
 ### Hi everyone 👋 
-====================================
 
 I'm Isil, a postdoctoral researcher in bioinformatics at Heidelberg University Hospital, focusing on multi-omics data integration.
 
